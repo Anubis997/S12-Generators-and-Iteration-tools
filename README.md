@@ -1,3 +1,67 @@
 # S12-Generators-and-Iteration-tools
 
 The main objective of this assignment is to create a lazy iterator that will return a named tuple of data in each row with appropriate data types and calculate the number of violations by car make.
+
+# Here is the answer for violations by car make:
+
+BMW: 34
+CHEVR: 76
+DODGE: 45
+FORD: 104
+FRUEH: 44
+HONDA: 106
+LINCO: 12
+TOYOT: 112
+CADIL: 9
+CHRYS: 12
+FIR: 1
+GMC: 35
+HYUND: 35
+JAGUA: 3
+JEEP: 22
+LEXUS: 26
+ME/BE: 38
+MERCU: 4
+MITSU: 11
+NISSA: 70
+HIN: 6
+NS/OT: 18
+WORKH: 2
+ACURA: 12
+AUDI: 12
+INTER: 25
+ISUZU: 10
+KENWO: 5
+KIA: 8
+OLDSM: 1
+SUBAR: 18
+VOLVO: 12
+SATUR: 2
+SMART: 3
+INFIN: 13
+PETER: 1
+None: 5
+CITRO: 1
+ROVER: 5
+BUICK: 5
+GEO: 1
+MAZDA: 5
+PORSC: 3
+VOLKS: 8
+YAMAH: 1
+BSA: 1
+MINI: 1
+PONTI: 1
+SPRI: 1
+PLYMO: 1
+SCION: 2
+UPS: 1
+FIAT: 1
+UD: 1
+UTILI: 1
+GMCQ: 1
+SAAB: 2
+HINO: 2
+STAR: 1
+AM/T: 1
+MI/F: 1
